@@ -45,7 +45,12 @@ public class KafkaProducerConfig<K extends Serializable, V extends SpecificRecor
 
     @Bean
     public ProducerFactory<K, V> producerFactory() {
-        return new DefaultKafkaProducerFactory<>(producerConfig());
+        try {
+            return new DefaultKafkaProducerFactory<>(producerConfig());
+        } catch (Exception ex) {
+            String x = ex.toString();
+            return null;
+        }
     }
 
     @Bean
