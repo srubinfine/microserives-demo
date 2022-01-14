@@ -9,7 +9,7 @@ twitter-to-kafka-service:
   twitter-stream-api-key-secret: Ukc8C2G1hE0Fau1fHGXCUAPUjAEVYUIgrxmq4UzreuYb6MOK4d
   twitter-access-token: 1481706139813355521-IHsYsuw90ms8Y5ilvIIwrFdZ0k1cCx
   twitter-access-token-secret: 8pTk2wLjuYNRFrla7mY0NpVdWLdIA196qKO6MeDu2sTcJ
-  enable-mock-tweets: true
+  enable-mock-tweets: false
   mock-min-tweet-length: 5
   mock-max-tweet-length: 15
   mock-sleep-ms: 10000
