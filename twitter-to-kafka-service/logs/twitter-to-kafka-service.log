@@ -1,0 +1,321 @@
+2022-01-13 12:09:16 [main] INFO  c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - Starting TwitterToKafkaServiceApplication using Java 17.0.1 on Adaptive-5399 with PID 18668 (C:\Users\SlavaRubinfine\Development\Java\Sandbox\microservices-demo\twitter-to-kafka-service\target\classes started by SlavaRubinfine in C:\Users\SlavaRubinfine\Development\Java\Sandbox\microservices-demo)
+2022-01-13 12:09:16 [main] INFO  c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - No active profile set, falling back to default profiles: default
+2022-01-13 12:09:17 [main] INFO  c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - Started TwitterToKafkaServiceApplication in 0.741 seconds (JVM running for 1.509)
+2022-01-13 12:12:28 [main] INFO  c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - Starting TwitterToKafkaServiceApplication using Java 17.0.1 on Adaptive-5399 with PID 22164 (C:\Users\SlavaRubinfine\Development\Java\Sandbox\microservices-demo\twitter-to-kafka-service\target\classes started by SlavaRubinfine in C:\Users\SlavaRubinfine\Development\Java\Sandbox\microservices-demo)
+2022-01-13 12:12:28 [main] INFO  c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - No active profile set, falling back to default profiles: default
+2022-01-13 12:12:29 [main] INFO  c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - Started TwitterToKafkaServiceApplication in 0.617 seconds (JVM running for 1.233)
+2022-01-13 12:14:53 [main] INFO  c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - Starting TwitterToKafkaServiceApplication using Java 17.0.1 on Adaptive-5399 with PID 25648 (C:\Users\SlavaRubinfine\Development\Java\Sandbox\microservices-demo\twitter-to-kafka-service\target\classes started by SlavaRubinfine in C:\Users\SlavaRubinfine\Development\Java\Sandbox\microservices-demo)
+2022-01-13 12:14:53 [main] INFO  c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - No active profile set, falling back to default profiles: default
+2022-01-13 12:14:54 [main] INFO  c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - Started TwitterToKafkaServiceApplication in 0.579 seconds (JVM running for 1.105)
+2022-01-13 12:17:49 [main] INFO  c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - Starting TwitterToKafkaServiceApplication using Java 17.0.1 on Adaptive-5399 with PID 26248 (C:\Users\SlavaRubinfine\Development\Java\Sandbox\microservices-demo\twitter-to-kafka-service\target\classes started by SlavaRubinfine in C:\Users\SlavaRubinfine\Development\Java\Sandbox\microservices-demo)
+2022-01-13 12:17:49 [main] INFO  c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - No active profile set, falling back to default profiles: default
+2022-01-13 12:17:49 [main] INFO  c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - Started TwitterToKafkaServiceApplication in 0.609 seconds (JVM running for 1.211)
+2022-01-13 12:22:47 [main] INFO  c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - Starting TwitterToKafkaServiceApplication using Java 17.0.1 on Adaptive-5399 with PID 18000 (C:\Users\SlavaRubinfine\Development\Java\Sandbox\microservices-demo\twitter-to-kafka-service\target\classes started by SlavaRubinfine in C:\Users\SlavaRubinfine\Development\Java\Sandbox\microservices-demo)
+2022-01-13 12:22:47 [main] INFO  c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - No active profile set, falling back to default profiles: default
+2022-01-13 12:22:47 [main] INFO  c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - Started TwitterToKafkaServiceApplication in 0.719 seconds (JVM running for 1.993)
+2022-01-13 12:24:49 [main] INFO  c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - Starting TwitterToKafkaServiceApplication using Java 17.0.1 on Adaptive-5399 with PID 26168 (C:\Users\SlavaRubinfine\Development\Java\Sandbox\microservices-demo\twitter-to-kafka-service\target\classes started by SlavaRubinfine in C:\Users\SlavaRubinfine\Development\Java\Sandbox\microservices-demo)
+2022-01-13 12:24:49 [main] INFO  c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - No active profile set, falling back to default profiles: default
+2022-01-13 12:24:49 [main] INFO  c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - Started TwitterToKafkaServiceApplication in 0.709 seconds (JVM running for 1.508)
+2022-01-13 12:40:14 [main] INFO  c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - Starting TwitterToKafkaServiceApplication using Java 17.0.1 on Adaptive-5399 with PID 19812 (C:\Users\SlavaRubinfine\Development\Java\Sandbox\microservices-demo\twitter-to-kafka-service\target\classes started by SlavaRubinfine in C:\Users\SlavaRubinfine\Development\Java\Sandbox\microservices-demo)
+2022-01-13 12:40:14 [main] INFO  c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - No active profile set, falling back to default profiles: default
+2022-01-13 12:40:14 [main] INFO  c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - Started TwitterToKafkaServiceApplication in 0.642 seconds (JVM running for 1.354)
+2022-01-13 12:44:46 [main] INFO  c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - Starting TwitterToKafkaServiceApplication using Java 17.0.1 on Adaptive-5399 with PID 22416 (C:\Users\SlavaRubinfine\Development\Java\Sandbox\microservices-demo\twitter-to-kafka-service\target\classes started by SlavaRubinfine in C:\Users\SlavaRubinfine\Development\Java\Sandbox\microservices-demo)
+2022-01-13 12:44:46 [main] INFO  c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - No active profile set, falling back to default profiles: default
+2022-01-13 12:44:47 [main] INFO  c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - Started TwitterToKafkaServiceApplication in 0.621 seconds (JVM running for 1.857)
+2022-01-13 12:45:46 [main] INFO  c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - Starting TwitterToKafkaServiceApplication using Java 17.0.1 on Adaptive-5399 with PID 27248 (C:\Users\SlavaRubinfine\Development\Java\Sandbox\microservices-demo\twitter-to-kafka-service\target\classes started by SlavaRubinfine in C:\Users\SlavaRubinfine\Development\Java\Sandbox\microservices-demo)
+2022-01-13 12:45:46 [main] INFO  c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - No active profile set, falling back to default profiles: default
+2022-01-13 12:45:46 [main] INFO  c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - Started TwitterToKafkaServiceApplication in 0.739 seconds (JVM running for 1.574)
+2022-01-13 12:46:27 [main] INFO  c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - Starting TwitterToKafkaServiceApplication using Java 17.0.1 on Adaptive-5399 with PID 26028 (C:\Users\SlavaRubinfine\Development\Java\Sandbox\microservices-demo\twitter-to-kafka-service\target\classes started by SlavaRubinfine in C:\Users\SlavaRubinfine\Development\Java\Sandbox\microservices-demo)
+2022-01-13 12:46:27 [main] INFO  c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - No active profile set, falling back to default profiles: default
+2022-01-13 12:46:28 [main] INFO  c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - Started TwitterToKafkaServiceApplication in 0.72 seconds (JVM running for 1.537)
+2022-01-13 12:46:28 [main] INFO  o.s.b.a.l.ConditionEvaluationReportLoggingListener - 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2022-01-13 12:46:28 [main] ERROR o.s.boot.SpringApplication - Application run failed
+java.lang.IllegalStateException: Failed to execute CommandLineRunner
+	at org.springframework.boot.SpringApplication.callRunner(SpringApplication.java:770)
+	at org.springframework.boot.SpringApplication.callRunners(SpringApplication.java:751)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:309)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1301)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1290)
+	at com.microservices.demo.twitter.to.kafka.service.TwitterToKafkaServiceApplication.main(TwitterToKafkaServiceApplication.java:22)
+Caused by: java.lang.NullPointerException: null
+	at java.base/java.util.Objects.requireNonNull(Objects.java:208)
+	at java.base/java.lang.String.join(String.java:3320)
+	at com.microservices.demo.twitter.to.kafka.service.TwitterToKafkaServiceApplication.run(TwitterToKafkaServiceApplication.java:27)
+	at org.springframework.boot.SpringApplication.callRunner(SpringApplication.java:767)
+	... 5 common frames omitted
+2022-01-13 12:48:14 [main] INFO  c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - Starting TwitterToKafkaServiceApplication using Java 17.0.1 on Adaptive-5399 with PID 27020 (C:\Users\SlavaRubinfine\Development\Java\Sandbox\microservices-demo\twitter-to-kafka-service\target\classes started by SlavaRubinfine in C:\Users\SlavaRubinfine\Development\Java\Sandbox\microservices-demo)
+2022-01-13 12:48:14 [main] INFO  c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - No active profile set, falling back to default profiles: default
+2022-01-13 12:48:15 [main] INFO  c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - Started TwitterToKafkaServiceApplication in 0.678 seconds (JVM running for 1.409)
+2022-01-13 12:48:15 [main] INFO  c.m.d.t.t.k.s.c.TwitterToKafkaServiceConfigData - TwitterToKafkaServiceConfigData(twitterKeywords=null)
+2022-01-13 12:49:52 [main] INFO  c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - Starting TwitterToKafkaServiceApplication using Java 17.0.1 on Adaptive-5399 with PID 8648 (C:\Users\SlavaRubinfine\Development\Java\Sandbox\microservices-demo\twitter-to-kafka-service\target\classes started by SlavaRubinfine in C:\Users\SlavaRubinfine\Development\Java\Sandbox\microservices-demo)
+2022-01-13 12:49:52 [main] INFO  c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - No active profile set, falling back to default profiles: default
+2022-01-13 12:49:52 [main] INFO  c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - Started TwitterToKafkaServiceApplication in 0.618 seconds (JVM running for 1.334)
+2022-01-13 12:49:52 [main] INFO  c.m.d.t.t.k.s.c.TwitterToKafkaServiceConfigData - TwitterToKafkaServiceConfigData(twitterKeywords=null)
+2022-01-13 12:50:54 [main] INFO  c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - Starting TwitterToKafkaServiceApplication using Java 17.0.1 on Adaptive-5399 with PID 24256 (C:\Users\SlavaRubinfine\Development\Java\Sandbox\microservices-demo\twitter-to-kafka-service\target\classes started by SlavaRubinfine in C:\Users\SlavaRubinfine\Development\Java\Sandbox\microservices-demo)
+2022-01-13 12:50:54 [main] INFO  c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - No active profile set, falling back to default profiles: default
+2022-01-13 12:50:54 [main] WARN  o.s.c.a.AnnotationConfigApplicationContext - Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.BeanDefinitionStoreException: Failed to parse configuration class [com.microservices.demo.twitter.to.kafka.service.TwitterToKafkaServiceApplication]; nested exception is java.io.FileNotFoundException: class path resource [application.yml] cannot be opened because it does not exist
+2022-01-13 12:50:54 [main] ERROR o.s.boot.SpringApplication - Application run failed
+org.springframework.beans.factory.BeanDefinitionStoreException: Failed to parse configuration class [com.microservices.demo.twitter.to.kafka.service.TwitterToKafkaServiceApplication]; nested exception is java.io.FileNotFoundException: class path resource [application.yml] cannot be opened because it does not exist
+	at org.springframework.context.annotation.ConfigurationClassParser.parse(ConfigurationClassParser.java:189)
+	at org.springframework.context.annotation.ConfigurationClassPostProcessor.processConfigBeanDefinitions(ConfigurationClassPostProcessor.java:331)
+	at org.springframework.context.annotation.ConfigurationClassPostProcessor.postProcessBeanDefinitionRegistry(ConfigurationClassPostProcessor.java:247)
+	at org.springframework.context.support.PostProcessorRegistrationDelegate.invokeBeanDefinitionRegistryPostProcessors(PostProcessorRegistrationDelegate.java:311)
+	at org.springframework.context.support.PostProcessorRegistrationDelegate.invokeBeanFactoryPostProcessors(PostProcessorRegistrationDelegate.java:112)
+	at org.springframework.context.support.AbstractApplicationContext.invokeBeanFactoryPostProcessors(AbstractApplicationContext.java:746)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:564)
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:730)
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:412)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:302)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1301)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1290)
+	at com.microservices.demo.twitter.to.kafka.service.TwitterToKafkaServiceApplication.main(TwitterToKafkaServiceApplication.java:26)
+Caused by: java.io.FileNotFoundException: class path resource [application.yml] cannot be opened because it does not exist
+	at org.springframework.core.io.ClassPathResource.getInputStream(ClassPathResource.java:199)
+	at org.springframework.core.io.support.EncodedResource.getInputStream(EncodedResource.java:159)
+	at org.springframework.core.io.support.PropertiesLoaderUtils.fillProperties(PropertiesLoaderUtils.java:110)
+	at org.springframework.core.io.support.PropertiesLoaderUtils.fillProperties(PropertiesLoaderUtils.java:81)
+	at org.springframework.core.io.support.PropertiesLoaderUtils.loadProperties(PropertiesLoaderUtils.java:67)
+	at org.springframework.core.io.support.ResourcePropertySource.<init>(ResourcePropertySource.java:67)
+	at org.springframework.core.io.support.DefaultPropertySourceFactory.createPropertySource(DefaultPropertySourceFactory.java:37)
+	at org.springframework.context.annotation.ConfigurationClassParser.processPropertySource(ConfigurationClassParser.java:463)
+	at org.springframework.context.annotation.ConfigurationClassParser.doProcessConfigurationClass(ConfigurationClassParser.java:280)
+	at org.springframework.context.annotation.ConfigurationClassParser.processConfigurationClass(ConfigurationClassParser.java:250)
+	at org.springframework.context.annotation.ConfigurationClassParser.parse(ConfigurationClassParser.java:207)
+	at org.springframework.context.annotation.ConfigurationClassParser.parse(ConfigurationClassParser.java:175)
+	... 12 common frames omitted
+2022-01-13 12:51:40 [main] INFO  c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - Starting TwitterToKafkaServiceApplication using Java 17.0.1 on Adaptive-5399 with PID 18872 (C:\Users\SlavaRubinfine\Development\Java\Sandbox\microservices-demo\twitter-to-kafka-service\target\classes started by SlavaRubinfine in C:\Users\SlavaRubinfine\Development\Java\Sandbox\microservices-demo)
+2022-01-13 12:51:40 [main] INFO  c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - No active profile set, falling back to default profiles: default
+2022-01-13 12:51:40 [main] INFO  c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - Started TwitterToKafkaServiceApplication in 0.71 seconds (JVM running for 1.444)
+2022-01-13 12:51:40 [main] INFO  c.m.d.t.t.k.s.c.TwitterToKafkaServiceConfigData - TwitterToKafkaServiceConfigData(twitterKeywords=[Java, Microservices, Kafka, Elasticsearch])
+2022-01-13 14:52:47 [main] INFO  c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - Starting TwitterToKafkaServiceApplication using Java 17.0.1 on Adaptive-5399 with PID 836 (C:\Users\SlavaRubinfine\Development\Java\Sandbox\microservices-demo\twitter-to-kafka-service\target\classes started by SlavaRubinfine in C:\Users\SlavaRubinfine\Development\Java\Sandbox\microservices-demo)
+2022-01-13 14:52:47 [main] INFO  c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - No active profile set, falling back to default profiles: default
+2022-01-13 14:52:48 [main] INFO  c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - Started TwitterToKafkaServiceApplication in 0.844 seconds (JVM running for 1.654)
+2022-01-13 14:52:48 [main] INFO  c.m.d.t.t.k.s.c.TwitterToKafkaServiceConfigData - TwitterToKafkaServiceConfigData(twitterKeywords=[Java, Microservices, Kafka, Elasticsearch])
+2022-01-13 14:52:48 [main] INFO  o.s.b.a.l.ConditionEvaluationReportLoggingListener - 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2022-01-13 14:52:48 [main] ERROR o.s.boot.SpringApplication - Application run failed
+java.lang.IllegalStateException: Failed to execute CommandLineRunner
+	at org.springframework.boot.SpringApplication.callRunner(SpringApplication.java:770)
+	at org.springframework.boot.SpringApplication.callRunners(SpringApplication.java:751)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:309)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1301)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1290)
+	at com.microservices.demo.twitter.to.kafka.service.TwitterToKafkaServiceApplication.main(TwitterToKafkaServiceApplication.java:26)
+Caused by: java.lang.IllegalStateException: Authentication credentials are missing. See http://twitter4j.org/en/configuration.html for details. See and register at http://apps.twitter.com/
+	at twitter4j.TwitterBaseImpl.ensureAuthorizationEnabled(TwitterBaseImpl.java:219)
+	at twitter4j.TwitterStreamImpl.filter(TwitterStreamImpl.java:325)
+	at com.microservices.demo.twitter.to.kafka.service.impl.TwitterKafkaStreamRunner.addFilter(TwitterKafkaStreamRunner.java:51)
+	at com.microservices.demo.twitter.to.kafka.service.impl.TwitterKafkaStreamRunner.start(TwitterKafkaStreamRunner.java:36)
+	at com.microservices.demo.twitter.to.kafka.service.TwitterToKafkaServiceApplication.run(TwitterToKafkaServiceApplication.java:32)
+	at org.springframework.boot.SpringApplication.callRunner(SpringApplication.java:767)
+	... 5 common frames omitted
+2022-01-13 14:52:48 [main] INFO  c.m.d.t.t.k.s.i.TwitterKafkaStreamRunner - Shutting down Twitter stream
+2022-01-13 14:53:18 [main] INFO  c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - Starting TwitterToKafkaServiceApplication using Java 17.0.1 on Adaptive-5399 with PID 26432 (C:\Users\SlavaRubinfine\Development\Java\Sandbox\microservices-demo\twitter-to-kafka-service\target\classes started by SlavaRubinfine in C:\Users\SlavaRubinfine\Development\Java\Sandbox\microservices-demo)
+2022-01-13 14:53:18 [main] INFO  c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - No active profile set, falling back to default profiles: default
+2022-01-13 14:53:19 [main] INFO  c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - Started TwitterToKafkaServiceApplication in 0.721 seconds (JVM running for 1.409)
+2022-01-13 14:53:19 [main] INFO  c.m.d.t.t.k.s.c.TwitterToKafkaServiceConfigData - TwitterToKafkaServiceConfigData(twitterKeywords=[Java, Microservices, Kafka, Elasticsearch])
+2022-01-13 14:53:41 [main] INFO  o.s.b.a.l.ConditionEvaluationReportLoggingListener - 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2022-01-13 14:53:41 [main] ERROR o.s.boot.SpringApplication - Application run failed
+java.lang.IllegalStateException: Failed to execute CommandLineRunner
+	at org.springframework.boot.SpringApplication.callRunner(SpringApplication.java:770)
+	at org.springframework.boot.SpringApplication.callRunners(SpringApplication.java:751)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:309)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1301)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1290)
+	at com.microservices.demo.twitter.to.kafka.service.TwitterToKafkaServiceApplication.main(TwitterToKafkaServiceApplication.java:26)
+Caused by: java.lang.IllegalStateException: Authentication credentials are missing. See http://twitter4j.org/en/configuration.html for details. See and register at http://apps.twitter.com/
+	at twitter4j.TwitterBaseImpl.ensureAuthorizationEnabled(TwitterBaseImpl.java:219)
+	at twitter4j.TwitterStreamImpl.filter(TwitterStreamImpl.java:325)
+	at com.microservices.demo.twitter.to.kafka.service.impl.TwitterKafkaStreamRunner.addFilter(TwitterKafkaStreamRunner.java:51)
+	at com.microservices.demo.twitter.to.kafka.service.impl.TwitterKafkaStreamRunner.start(TwitterKafkaStreamRunner.java:36)
+	at com.microservices.demo.twitter.to.kafka.service.TwitterToKafkaServiceApplication.run(TwitterToKafkaServiceApplication.java:32)
+	at org.springframework.boot.SpringApplication.callRunner(SpringApplication.java:767)
+	... 5 common frames omitted
+2022-01-13 14:53:41 [main] INFO  c.m.d.t.t.k.s.i.TwitterKafkaStreamRunner - Shutting down Twitter stream
+2022-01-13 15:03:51 [main] INFO  c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - Starting TwitterToKafkaServiceApplication using Java 17.0.1 on Adaptive-5399 with PID 16748 (C:\Users\SlavaRubinfine\Development\Java\Sandbox\microservices-demo\twitter-to-kafka-service\target\classes started by SlavaRubinfine in C:\Users\SlavaRubinfine\Development\Java\Sandbox\microservices-demo)
+2022-01-13 15:03:51 [main] INFO  c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - No active profile set, falling back to default profiles: default
+2022-01-13 15:03:52 [main] INFO  c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - Started TwitterToKafkaServiceApplication in 0.698 seconds (JVM running for 1.308)
+2022-01-13 15:03:52 [main] INFO  c.m.d.t.t.k.s.c.TwitterToKafkaServiceConfigData - TwitterToKafkaServiceConfigData(twitterKeywords=[Java, Microservices, Kafka, Elasticsearch], twitterStreamApiKey=uyv6ef6FSmxM0XQmvPqnGpMCD, twitterStreamApiKeySecret=Ukc8C2G1hE0Fau1fHGXCUAPUjAEVYUIgrxmq4UzreuYb6MOK4d, twitterAccessToken=1481706139813355521-IHsYsuw90ms8Y5ilvIIwrFdZ0k1cCx, twitterAccessTokenSecret=8pTk2wLjuYNRFrla7mY0NpVdWLdIA196qKO6MeDu2sTcJ)
+2022-01-13 15:03:56 [main] INFO  o.s.b.a.l.ConditionEvaluationReportLoggingListener - 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2022-01-13 15:03:57 [main] ERROR o.s.boot.SpringApplication - Application run failed
+java.lang.IllegalStateException: Failed to execute CommandLineRunner
+	at org.springframework.boot.SpringApplication.callRunner(SpringApplication.java:770)
+	at org.springframework.boot.SpringApplication.callRunners(SpringApplication.java:751)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:309)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1301)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1290)
+	at com.microservices.demo.twitter.to.kafka.service.TwitterToKafkaServiceApplication.main(TwitterToKafkaServiceApplication.java:26)
+Caused by: java.lang.IllegalStateException: Authentication credentials are missing. See http://twitter4j.org/en/configuration.html for details. See and register at http://apps.twitter.com/
+	at twitter4j.TwitterBaseImpl.ensureAuthorizationEnabled(TwitterBaseImpl.java:219)
+	at twitter4j.TwitterStreamImpl.filter(TwitterStreamImpl.java:325)
+	at com.microservices.demo.twitter.to.kafka.service.impl.TwitterKafkaStreamRunner.addFilter(TwitterKafkaStreamRunner.java:57)
+	at com.microservices.demo.twitter.to.kafka.service.impl.TwitterKafkaStreamRunner.start(TwitterKafkaStreamRunner.java:42)
+	at com.microservices.demo.twitter.to.kafka.service.TwitterToKafkaServiceApplication.run(TwitterToKafkaServiceApplication.java:32)
+	at org.springframework.boot.SpringApplication.callRunner(SpringApplication.java:767)
+	... 5 common frames omitted
+2022-01-13 15:03:57 [main] INFO  c.m.d.t.t.k.s.i.TwitterKafkaStreamRunner - Shutting down Twitter stream
+2022-01-13 15:07:37 [main] INFO  c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - Starting TwitterToKafkaServiceApplication using Java 17.0.1 on Adaptive-5399 with PID 24384 (C:\Users\SlavaRubinfine\Development\Java\Sandbox\microservices-demo\twitter-to-kafka-service\target\classes started by SlavaRubinfine in C:\Users\SlavaRubinfine\Development\Java\Sandbox\microservices-demo)
+2022-01-13 15:07:37 [main] INFO  c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - No active profile set, falling back to default profiles: default
+2022-01-13 15:07:37 [main] INFO  c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - Started TwitterToKafkaServiceApplication in 0.658 seconds (JVM running for 1.252)
+2022-01-13 15:07:37 [main] INFO  c.m.d.t.t.k.s.c.TwitterToKafkaServiceConfigData - TwitterToKafkaServiceConfigData(twitterKeywords=[Java, Microservices, Kafka, Elasticsearch], twitterStreamApiKey=uyv6ef6FSmxM0XQmvPqnGpMCD, twitterStreamApiKeySecret=Ukc8C2G1hE0Fau1fHGXCUAPUjAEVYUIgrxmq4UzreuYb6MOK4d, twitterAccessToken=1481706139813355521-IHsYsuw90ms8Y5ilvIIwrFdZ0k1cCx, twitterAccessTokenSecret=8pTk2wLjuYNRFrla7mY0NpVdWLdIA196qKO6MeDu2sTcJ)
+2022-01-13 15:08:34 [Twitter Stream consumer /  [1][initializing]] INFO  twitter4j.TwitterStreamImpl - Establishing connection.
+2022-01-13 15:08:37 [Twitter Stream consumer /  [1][Establishing connection]] INFO  twitter4j.TwitterStreamImpl - Connection established.
+2022-01-13 15:08:37 [Twitter Stream consumer /  [1][Establishing connection]] INFO  twitter4j.TwitterStreamImpl - Receiving status stream.
+2022-01-13 15:08:37 [Twitter4J Async Dispatcher[0]] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - RT @92Y: He's portrayed Claus von Bulow, Franz Kafka - now Jeremy Irons takes on the role of Neville Chamberlain. On Jan. 17 at 5 pm, the O…
+2022-01-13 15:08:44 [Twitter4J Async Dispatcher[0]] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - RT @kitap_penceresi: “Yanımda yürüyordun Milena, düşünsene, yanımda yürümüştün!
+Aşık biri için ne büyük nimet değil mi?”
+
+Franz Kafka
+2022-01-13 15:08:49 [Twitter4J Async Dispatcher[0]] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - «Símbolo fálico, incesto y Kafka». Así define la Metamorfosis Carolina Sanín. De antemano digo que no seré soez con la interpretación (a pesar que ella crea que la paráfrasis no lo sea), a mi juicio, errada y positivamente impía de la novela del praguense.
+2022-01-13 15:08:53 [Twitter4J Async Dispatcher[0]] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - RT @Aslican33: F. Kafka diyor ki, "Beyinlerimiz savaşsın isterdim ama görüyorum ki siz silahsızsınız" 
+
+Keşke IQ, eğitim, vicdan ve ahlak s…
+2022-01-13 15:08:54 [Twitter4J Async Dispatcher[0]] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Kafka is an ethical, not an aesthetic, writer. There💴
+
+DC50 : Ussee
+IنمشيI كُوُدَ خَصٍمٍ
+2022-01-13 15:08:57 [Twitter4J Async Dispatcher[0]] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - RT @noel_sylviane: Rejet de mon amendement visant à réintégrer les 15000 #soignants suspendus. Situation kafkaïenne où le @gouvernementFR p…
+2022-01-13 15:08:58 [Twitter4J Async Dispatcher[0]] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - RT @programmerjoke9: "It's a front-end issue"#100Daysofcode #javascript #programming #dev #linux #java #programming #CodeNewbie #python #re…
+2022-01-13 15:09:03 [Twitter4J Async Dispatcher[0]] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Develop great software projects for any platform using Fire, our state of the art development environment for the Mac. 
+
+https://t.co/gZtZCQY0fp
+
+#fire #elements #softwaredevelopment #macos #csharp #pascal #swift #java #go #visualbasicnet https://t.co/2ahZItZap7
+2022-01-13 15:09:03 [Twitter4J Async Dispatcher[0]] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - RT @smoothbind: #IndieFilm VENGEANCE SERVED COLD won BEST EDITING in #Tokyo
+
+https://t.co/giZKCQTLlH 
+
+#100daysofcode #php #java #python #n…
+2022-01-13 15:09:09 [Twitter4J Async Dispatcher[0]] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - ❗ランキング:41位❗(ナイト＆週末セール)
+
+「【ひかりTVショッピング限定】北欧風 羽毛こたつ布団 (長方形 240×200cm)  AP19001591」
+メーカ:西川
+
+価格:¥9,980✨
+🔥売り切れ間近🔥(05:09)
+
+https://t.co/1kQf8UQUuo
+2022-01-13 15:09:09 [Twitter4J Async Dispatcher[0]] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - ❗ランキング：6位❗(マザーボード)
+
+「マザーボード X570M Pro4 X570M-Pro4」
+メーカ:ASRock
+
+価格:¥25,222✨
+🔥売り切れ間近🔥(05:09)
+
+https://t.co/7RGMA4kNYF
+2022-01-13 15:09:16 [Twitter4J Async Dispatcher[0]] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - RT @smoothbind: #IndieFilm VENGEANCE SERVED COLD won BEST EDITING in #Tokyo
+
+https://t.co/giZKCQTLlH 
+
+#100daysofcode #php #java #python #n…
+2022-01-13 15:09:17 [Twitter4J Async Dispatcher[0]] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Netlogo expert needed -- 2 https://t.co/LIXNFeL23C I need a person who is expert in netlogo to do some programming as well as a writing  (Budget: $2 - $8 USD, Jobs: C Programming, C++ Programming, Java, Python, Software Architecture)
+2022-01-13 15:09:18 [Twitter4J Async Dispatcher[0]] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - @guy_si @gerstams @agileklzkittens The issue was that TDD was not suitable for this specific task at all, because you can’t drive it one test at a time.
+I did it myself once (before Jeffries experiment) in Java, it is quite easy, but not if you do it TDD way as it requires to come up with an algorithm first.
+2022-01-13 15:09:20 [Twitter4J Async Dispatcher[0]] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - RT @itsoknottobegay:  My Clients Verified
+Her’s classify as troll
+#Python #IoT #IIoT #PyTorch #NFT #JavaScript #ReactJS #WordPress #Securi…
+2022-01-13 15:09:20 [Twitter4J Async Dispatcher[0]] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - RT @fuedicho: "Aquel que conserva la capacidad de reconocer la belleza, nunca será viejo". 
+Franz Kafka
+#Fuedicho https://t.co/utlUqSeRb1
+2022-01-13 15:09:22 [SpringApplicationShutdownHook] INFO  c.m.d.t.t.k.s.i.TwitterKafkaStreamRunner - Shutting down Twitter stream
+2022-01-13 15:42:22 [main] INFO  c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - Starting TwitterToKafkaServiceApplication using Java 17.0.1 on Adaptive-5399 with PID 22400 (C:\Users\SlavaRubinfine\Development\Java\Sandbox\microservices-demo\twitter-to-kafka-service\target\classes started by SlavaRubinfine in C:\Users\SlavaRubinfine\Development\Java\Sandbox\microservices-demo)
+2022-01-13 15:42:22 [main] INFO  c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - No active profile set, falling back to default profiles: default
+2022-01-13 15:42:22 [main] WARN  o.s.c.a.AnnotationConfigApplicationContext - Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'twitterToKafkaServiceApplication': Unsatisfied dependency expressed through constructor parameter 1; nested exception is org.springframework.beans.factory.NoUniqueBeanDefinitionException: No qualifying bean of type 'com.microservices.demo.twitter.to.kafka.service.runner.StreamRunner' available: expected single matching bean but found 2: mockKafkaStreamRunner,twitterKafkaStreamRunner
+2022-01-13 15:42:22 [main] INFO  o.s.b.a.l.ConditionEvaluationReportLoggingListener - 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2022-01-13 15:42:22 [main] ERROR o.s.b.d.LoggingFailureAnalysisReporter - 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Parameter 1 of constructor in com.microservices.demo.twitter.to.kafka.service.TwitterToKafkaServiceApplication required a single bean, but 2 were found:
+	- mockKafkaStreamRunner: defined in file [C:\Users\SlavaRubinfine\Development\Java\Sandbox\microservices-demo\twitter-to-kafka-service\target\classes\com\microservices\demo\twitter\to\kafka\service\impl\MockKafkaStreamRunner.class]
+	- twitterKafkaStreamRunner: defined in file [C:\Users\SlavaRubinfine\Development\Java\Sandbox\microservices-demo\twitter-to-kafka-service\target\classes\com\microservices\demo\twitter\to\kafka\service\impl\TwitterKafkaStreamRunner.class]
+
+
+Action:
+
+Consider marking one of the beans as @Primary, updating the consumer to accept multiple beans, or using @Qualifier to identify the bean that should be consumed
+
+2022-01-13 15:45:55 [main] INFO  c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - Starting TwitterToKafkaServiceApplication using Java 17.0.1 on Adaptive-5399 with PID 5644 (C:\Users\SlavaRubinfine\Development\Java\Sandbox\microservices-demo\twitter-to-kafka-service\target\classes started by SlavaRubinfine in C:\Users\SlavaRubinfine\Development\Java\Sandbox\microservices-demo)
+2022-01-13 15:45:55 [main] INFO  c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - No active profile set, falling back to default profiles: default
+2022-01-13 15:45:55 [main] INFO  c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - Started TwitterToKafkaServiceApplication in 0.681 seconds (JVM running for 1.358)
+2022-01-13 15:45:55 [main] INFO  c.m.d.t.t.k.s.c.TwitterToKafkaServiceConfigData - TwitterToKafkaServiceConfigData(twitterKeywords=[Java, Microservices, Kafka, Elasticsearch], twitterStreamApiKey=uyv6ef6FSmxM0XQmvPqnGpMCD, twitterStreamApiKeySecret=Ukc8C2G1hE0Fau1fHGXCUAPUjAEVYUIgrxmq4UzreuYb6MOK4d, twitterAccessToken=1481706139813355521-IHsYsuw90ms8Y5ilvIIwrFdZ0k1cCx, twitterAccessTokenSecret=8pTk2wLjuYNRFrla7mY0NpVdWLdIA196qKO6MeDu2sTcJ, enableMockTweets=true, mockMinTweetLength=5, mockMaxTweetLength=15, mockSleepMs=10000)
+2022-01-13 15:46:01 [Twitter Stream consumer /  [1][initializing]] INFO  twitter4j.TwitterStreamImpl - Establishing connection.
+2022-01-13 15:46:01 [SpringApplicationShutdownHook] INFO  c.m.d.t.t.k.s.i.TwitterKafkaStreamRunner - Shutting down Twitter stream
+2022-01-13 15:46:09 [main] INFO  c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - Starting TwitterToKafkaServiceApplication using Java 17.0.1 on Adaptive-5399 with PID 14628 (C:\Users\SlavaRubinfine\Development\Java\Sandbox\microservices-demo\twitter-to-kafka-service\target\classes started by SlavaRubinfine in C:\Users\SlavaRubinfine\Development\Java\Sandbox\microservices-demo)
+2022-01-13 15:46:09 [main] INFO  c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - No active profile set, falling back to default profiles: default
+2022-01-13 15:46:09 [main] INFO  c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - Started TwitterToKafkaServiceApplication in 0.634 seconds (JVM running for 1.324)
+2022-01-13 15:46:09 [main] INFO  c.m.d.t.t.k.s.c.TwitterToKafkaServiceConfigData - TwitterToKafkaServiceConfigData(twitterKeywords=[Java, Microservices, Kafka, Elasticsearch], twitterStreamApiKey=uyv6ef6FSmxM0XQmvPqnGpMCD, twitterStreamApiKeySecret=Ukc8C2G1hE0Fau1fHGXCUAPUjAEVYUIgrxmq4UzreuYb6MOK4d, twitterAccessToken=1481706139813355521-IHsYsuw90ms8Y5ilvIIwrFdZ0k1cCx, twitterAccessTokenSecret=8pTk2wLjuYNRFrla7mY0NpVdWLdIA196qKO6MeDu2sTcJ, enableMockTweets=true, mockMinTweetLength=5, mockMaxTweetLength=15, mockSleepMs=10000)
+2022-01-13 15:46:19 [Twitter Stream consumer /  [1][initializing]] INFO  twitter4j.TwitterStreamImpl - Establishing connection.
+2022-01-13 15:46:23 [Twitter Stream consumer /  [1][Establishing connection]] INFO  twitter4j.TwitterStreamImpl - Connection established.
+2022-01-13 15:46:23 [Twitter Stream consumer /  [1][Establishing connection]] INFO  twitter4j.TwitterStreamImpl - Receiving status stream.
+2022-01-13 15:46:23 [Twitter4J Async Dispatcher[0]] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - RT @kitap_penceresi: “Yanımda yürüyordun Milena, düşünsene, yanımda yürümüştün!
+Aşık biri için ne büyük nimet değil mi?”
+
+Franz Kafka
+2022-01-13 15:46:24 [Twitter4J Async Dispatcher[0]] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - #100DaysOfCode #CodeNewbie #Developers #bugbounty #CyberAttack #cybersecurity #securityawareness #security @_Qflexi #infosec @Bonga_777 #OpenSource #Python #CISO #java #javascript #tech #cyberrisk #Data #pentest #techforsmallbusinesses #Metaverse #WomenWhoCode
+2022-01-13 15:46:29 [Twitter4J Async Dispatcher[0]] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - RT @_Qflexi: #100DaysOfCode #CodeNewbie #Developers #bugbounty #CyberAttack #cybersecurity #securityawareness #security @_Qflexi #infosec @…
+2022-01-13 15:46:29 [Twitter4J Async Dispatcher[0]] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - RT @_Qflexi: #100DaysOfCode #CodeNewbie #Developers #bugbounty #CyberAttack #cybersecurity #securityawareness #security @_Qflexi #infosec @…
+2022-01-13 15:46:34 [Twitter4J Async Dispatcher[0]] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - RT @deadlockmutex: #bolhadev, a empresa q eu trabalho está com vagas de estágio pra dev .NET (C#) e Java. São 60 vagas pra cada modalidade.…
+2022-01-13 15:46:34 [Twitter4J Async Dispatcher[0]] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - RT @berkinblogu: Ne güzel söylemiş Franz Kafka ; “ Beni üzecek gücü sana verdiğim için kendimden özür dilerim.”
+2022-01-13 15:46:37 [Twitter4J Async Dispatcher[0]] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - #OOP #CleanCode #Refactor
+How often do you follow the "Object Calisthenics" rules for clean code?
+
+Do you agree with all the points? Please comment.
+Well I don't do with #8 though
+
+If you don't know about "Object Calisthenics", then please read below👇
+
+#PHP #Java #Python #Ruby https://t.co/KlJhx0NeFh
+2022-01-13 15:46:43 [Twitter4J Async Dispatcher[0]] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Pourquoi qualifie-t-on notre quotidien de "kafkaïen" ? https://t.co/8XXqBHn0Tp
+2022-01-13 15:46:45 [Twitter4J Async Dispatcher[0]] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - #100DaysOfCode #CodeNewbie #Developers #bugbounty #CyberAttack #cybersecurity #securityawareness #security @_Qflexi #infosec @Bonga_777 #OpenSource #Python #CISO #java #javascript #tech #cyberrisk #Data #pentest #techforsmallbusinesses #Metaverse #WomenWhoCode
+2022-01-13 15:46:49 [SpringApplicationShutdownHook] INFO  c.m.d.t.t.k.s.i.TwitterKafkaStreamRunner - Shutting down Twitter stream
+2022-01-13 15:48:00 [main] INFO  c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - Starting TwitterToKafkaServiceApplication using Java 17.0.1 on Adaptive-5399 with PID 23476 (C:\Users\SlavaRubinfine\Development\Java\Sandbox\microservices-demo\twitter-to-kafka-service\target\classes started by SlavaRubinfine in C:\Users\SlavaRubinfine\Development\Java\Sandbox\microservices-demo)
+2022-01-13 15:48:00 [main] INFO  c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - No active profile set, falling back to default profiles: default
+2022-01-13 15:48:01 [main] INFO  c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - Started TwitterToKafkaServiceApplication in 0.673 seconds (JVM running for 1.384)
+2022-01-13 15:48:01 [main] INFO  c.m.d.t.t.k.s.c.TwitterToKafkaServiceConfigData - TwitterToKafkaServiceConfigData(twitterKeywords=[Java, Microservices, Kafka, Elasticsearch], twitterStreamApiKey=uyv6ef6FSmxM0XQmvPqnGpMCD, twitterStreamApiKeySecret=Ukc8C2G1hE0Fau1fHGXCUAPUjAEVYUIgrxmq4UzreuYb6MOK4d, twitterAccessToken=1481706139813355521-IHsYsuw90ms8Y5ilvIIwrFdZ0k1cCx, twitterAccessTokenSecret=8pTk2wLjuYNRFrla7mY0NpVdWLdIA196qKO6MeDu2sTcJ, enableMockTweets=true, mockMinTweetLength=5, mockMaxTweetLength=15, mockSleepMs=10000)
+2022-01-13 15:48:01 [main] INFO  c.m.d.t.t.k.s.i.MockKafkaStreamRunner - Starting Mock Twitter stream
+2022-01-13 15:48:01 [pool-1-thread-1] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - sed sed pulvinar sit consectetuer magna libero purus adipiscing malesuada Fusce amet Maecenas sed dolor lectus
+2022-01-13 15:48:11 [pool-1-thread-1] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - malesuada porttitor elit magna amet massa
+2022-01-13 15:48:21 [pool-1-thread-1] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - posuere adipiscing Lorem Maecenas Lorem massa lectus sed malesuada libero porttitor purus sed
+2022-01-13 15:49:09 [main] INFO  c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - Starting TwitterToKafkaServiceApplication using Java 17.0.1 on Adaptive-5399 with PID 600 (C:\Users\SlavaRubinfine\Development\Java\Sandbox\microservices-demo\twitter-to-kafka-service\target\classes started by SlavaRubinfine in C:\Users\SlavaRubinfine\Development\Java\Sandbox\microservices-demo)
+2022-01-13 15:49:09 [main] INFO  c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - No active profile set, falling back to default profiles: default
+2022-01-13 15:49:10 [main] INFO  c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - Started TwitterToKafkaServiceApplication in 0.688 seconds (JVM running for 1.393)
+2022-01-13 15:49:10 [main] INFO  c.m.d.t.t.k.s.c.TwitterToKafkaServiceConfigData - TwitterToKafkaServiceConfigData(twitterKeywords=[Java, Microservices, Kafka, Elasticsearch], twitterStreamApiKey=uyv6ef6FSmxM0XQmvPqnGpMCD, twitterStreamApiKeySecret=Ukc8C2G1hE0Fau1fHGXCUAPUjAEVYUIgrxmq4UzreuYb6MOK4d, twitterAccessToken=1481706139813355521-IHsYsuw90ms8Y5ilvIIwrFdZ0k1cCx, twitterAccessTokenSecret=8pTk2wLjuYNRFrla7mY0NpVdWLdIA196qKO6MeDu2sTcJ, enableMockTweets=false, mockMinTweetLength=5, mockMaxTweetLength=15, mockSleepMs=10000)
+2022-01-13 15:49:14 [Twitter Stream consumer /  [1][initializing]] INFO  twitter4j.TwitterStreamImpl - Establishing connection.
+2022-01-13 15:49:16 [Twitter Stream consumer /  [1][Establishing connection]] INFO  twitter4j.TwitterStreamImpl - Connection established.
+2022-01-13 15:49:16 [Twitter Stream consumer /  [1][Establishing connection]] INFO  twitter4j.TwitterStreamImpl - Receiving status stream.
+2022-01-13 15:49:16 [Twitter4J Async Dispatcher[0]] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - RT @portusnetwork: Protect your #SmartContracts with Portus! 🧑🏻‍💻💰 #100DaysOfCode #a11y #a16z #AI #cybersecurity #cloud #APIgateway #DeFi #…
+2022-01-13 15:49:18 [Twitter4J Async Dispatcher[0]] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - RT @sonofkadi: Day 26 of #100DaysOfCode
+I revised ArrayList in java and did some katas on codewars.
+2022-01-13 15:49:18 [Twitter4J Async Dispatcher[0]] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - @PoliceZimbabwe The man is panganai Java musanyepere kuzungaira
+2022-01-13 15:49:21 [Twitter4J Async Dispatcher[0]] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - RT @jabuilds: Code a block of logic, compile, & test. Pretty much my workflow. Helps keep me from crazy trying to track down bugs.
+#technol…
+2022-01-13 15:49:22 [Twitter4J Async Dispatcher[0]] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - RT @sonofkadi: Day 26 of #100DaysOfCode
+I revised ArrayList in java and did some katas on codewars.
+2022-01-13 15:49:25 [Twitter4J Async Dispatcher[0]] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Pourquoi qualifie-t-on notre quotidien de "kafkaïen" ? via @franceculture https://t.co/tMK6i45W4u
+2022-01-13 15:49:26 [Twitter4J Async Dispatcher[0]] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - RT @portusnetwork: Other configuration options such as the ones for data manipulation are available. 🧑🏻‍💻⚙️🚀 #data #coding #programming #De…
+2022-01-13 15:49:30 [Twitter4J Async Dispatcher[0]] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - RT @couchbase: This newly revamped course leverages the full power of #Couchbase 7.0 and supports Couchbase Capella. Register now! 
+
+#java…
+2022-01-13 15:49:41 [SpringApplicationShutdownHook] INFO  c.m.d.t.t.k.s.i.TwitterKafkaStreamRunner - Shutting down Twitter stream
+2022-01-13 16:27:54 [main] INFO  c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - Starting TwitterToKafkaServiceApplication using Java 17.0.1 on Adaptive-5399 with PID 21860 (C:\Users\SlavaRubinfine\Development\Java\Sandbox\microservices-demo\twitter-to-kafka-service\target\classes started by SlavaRubinfine in C:\Users\SlavaRubinfine\Development\Java\Sandbox\microservices-demo)
+2022-01-13 16:27:54 [main] INFO  c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - No active profile set, falling back to default profiles: default
+2022-01-13 16:27:54 [main] INFO  c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - Started TwitterToKafkaServiceApplication in 0.799 seconds (JVM running for 1.466)
+2022-01-13 16:27:54 [main] INFO  c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - TwitterToKafkaServiceConfigData(twitterKeywords=[Java, Microservices, Kafka, Elasticsearch], twitterStreamDebugEnabled=true, twitterStreamApiKey=uyv6ef6FSmxM0XQmvPqnGpMCD, twitterStreamApiKeySecret=Ukc8C2G1hE0Fau1fHGXCUAPUjAEVYUIgrxmq4UzreuYb6MOK4d, twitterAccessToken=1481706139813355521-IHsYsuw90ms8Y5ilvIIwrFdZ0k1cCx, twitterAccessTokenSecret=8pTk2wLjuYNRFrla7mY0NpVdWLdIA196qKO6MeDu2sTcJ, enableMockTweets=true, mockMinTweetLength=5, mockMaxTweetLength=15, mockSleepMs=10000)
+2022-01-13 16:27:54 [main] INFO  c.m.d.t.t.k.s.i.MockKafkaStreamRunner - Starting Mock Twitter stream
+2022-01-13 16:27:54 [pool-1-thread-1] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Fusce lectus adipiscing Maecenas sit lectus magna lectus
+2022-01-13 16:28:04 [pool-1-thread-1] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - dolor amet purus adipiscing Maecenas purus consectetuer malesuada sed congue malesuada purus pulvinar elit ipsum dolor
