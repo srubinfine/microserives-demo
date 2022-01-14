@@ -7,6 +7,8 @@
         <module>app-config-data</module>
 		<module>kafka</module>
 		<module>kafka/kafka-model</module>
+		<module>kafka/kafka-admin</module>
+		<module>common-config</module>
 	</modules>
 	<parent>
 		<groupId>org.springframework.boot</groupId>
@@ -39,6 +41,12 @@
 			<dependency>
 				<groupId>com.microservices-demo</groupId>
 				<artifactId>app-config-data</artifactId>
+				<version>${project.version}</version>
+			</dependency>
+
+			<dependency>
+				<groupId>com.microservices-demo</groupId>
+				<artifactId>common-config</artifactId>
 				<version>${project.version}</version>
 			</dependency>
 
